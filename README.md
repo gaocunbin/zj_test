@@ -1,65 +1,65 @@
-# Project Title (zj_test)
+# 项目标题 (zj_test)
 
-## 1. Overview
+## 1. 项目概述
 
-*   Brief description of the project.
-*   High-level architecture.
+*   项目简介
+*   高层架构说明
 
-## 2. Frontend: Electron Desktop Application
+## 2. 前端：Electron 桌面应用程序
 
-*   **Technology:** React
-*   **Platform:** Windows (EXE)
-*   **Key Features:**
-    *   [List key frontend features here]
-*   **Project Structure:**
-    *   [Briefly describe frontend project folder structure]
-*   **Setup and Run:**
-    *   [Instructions to build and run the frontend application]
+*   **技术栈：** React
+*   **目标平台：** Windows (EXE)
+*   **主要功能：**
+    *   [在此处列出主要前端功能]
+*   **项目结构：**
+    *   [简要描述前端项目文件夹结构]
+*   **安装与运行：**
+    *   [构建和运行前端应用程序的说明]
 
-## 3. Backend: Clojure Service
+## 3. 后端：Clojure 服务
 
-*   **Key Responsibilities:**
-    *   Manages System Database (SQLite) - CRUD operations.
-    *   Manages Project Configuration Database (SQLite) - CRUD operations.
-    *   Task Scheduler.
-*   **API Endpoints:**
-    *   [Link to or list key API endpoints for Clojure service]
-*   **Project Structure:**
-    *   [Briefly describe Clojure backend project folder structure]
-*   **Setup and Run:**
-    *   [Instructions to build and run the Clojure backend]
+*   **主要职责：**
+    *   管理系统数据库 (SQLite) - CRUD 操作
+    *   管理项目配置数据库 (SQLite) - CRUD 操作
+    *   任务调度器
+*   **API 端点：**
+    *   [链接或列出 Clojure 服务的主要 API 端点]
+*   **项目结构：**
+    *   [简要描述 Clojure 后端项目文件夹结构]
+*   **安装与运行：**
+    *   [构建和运行 Clojure 后端的说明]
 
-## 4. Backend: C# .NET 6 Service
+## 4. 后端：C# .NET 6 服务
 
-*   **Key Responsibilities:**
-    *   Manages Project Experiment Database (SQLite) - CRUD operations.
-    *   Hardware Data Acquisition.
-    *   Data Storage.
-    *   Data Export.
-    *   Other experimental data processing functions.
-*   **API Endpoints:**
-    *   [Link to or list key API endpoints for C# service]
-*   **Project Structure:**
-    *   [Briefly describe C# backend project folder structure]
-*   **Setup and Run:**
-    *   [Instructions to build and run the C# backend]
+*   **主要职责：**
+    *   管理项目试验数据库 (SQLite) - CRUD 操作
+    *   硬件数据采集
+    *   数据存储
+    *   数据导出
+    *   其他试验数据处理功能
+*   **API 端点：**
+    *   [链接或列出 C# 服务的主要 API 端点]
+*   **项目结构：**
+    *   [简要描述 C# 后端项目文件夹结构]
+*   **安装与运行：**
+    *   [构建和运行 C# 后端的说明]
 
-## 5. Databases
+## 5. 数据库
 
-*   **System Database:** SQLite (Managed by Clojure backend)
-*   **Project Configuration Database:** SQLite (Managed by Clojure backend)
-*   **Project Experiment Database:** SQLite (Managed by C# .NET 6 backend)
+*   **系统数据库：** SQLite (由 Clojure 后端管理)
+*   **项目配置数据库：** SQLite (由 Clojure 后端管理)
+*   **项目试验数据库：** SQLite (由 C# .NET 6 后端管理)
 
-## 6. Getting Started
+## 6. 快速开始
 
-*   Prerequisites (e.g., Node.js, Leiningen, .NET SDK)
-*   Build process for the entire project.
-*   How to run the full application stack.
+*   环境依赖 (例如：Node.js, Leiningen, .NET SDK)
+*   整个项目的构建流程
+*   如何运行完整的应用程序栈
 
-## 7. Contributing (Optional)
+## 7. 如何贡献 (可选)
 
-*   [Guidelines for contributing to the project]
+*   [项目贡献指南]
 
-## 8. License (Optional)
+## 8. 许可证 (可选)
 
-*   [Project license information]
+*   [项目许可证信息]
